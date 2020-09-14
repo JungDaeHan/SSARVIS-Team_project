@@ -1,0 +1,11 @@
+# ignore file
+Web_templet/node_modules/
+Web_templet/ssarvis/node_modules/
+Web_templet/ssarvis/package-lock.json
+Web_templet/tmp/tsreq/*
+Web_templet/public/uploads
+
+package-lock.json
+__pycache__
+
+**/*.bak

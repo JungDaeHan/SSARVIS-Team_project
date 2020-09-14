@@ -1,0 +1,16 @@
+node_modules
+
+package-lock.json
+
+test-web-iot/node_modules/
+test-web-iot/frontend/node_modules/
+test_web_iot/public/
+
+test_web_iot/package-lock.json
+
+
+Web_templete/node_modules/
+Web_templete/ssarvis/node_modules/
+Web_templete/ssarvis/package-lock.json
+
+web-iot/node_modules/
